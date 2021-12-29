@@ -18,7 +18,6 @@ Dataset
 - Reviews include product and user information, ratings, and a plain text review. It also includes reviews from all other Amazon categories.
 
 **Attribute Information:**
-There are a total of 10 columns in total in the Amazon Fine Food review dataset.
 
 **Id :** Row Id
 
