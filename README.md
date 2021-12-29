@@ -3,7 +3,6 @@ Data Source: (https://www.kaggle.com/snap/amazon-fine-food-reviews/version/2)
 
 
 **Objective**:
-
 - determine whether the review is positive or negative.
 - 
 **How to determine if a review is positive or negative?**
